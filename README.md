@@ -5,7 +5,6 @@
 ## Table of Contents
 
 - [**Description**](#📑-description)
-- [**Installation**](#💾-installation)
 - [**Usage**](#💻-usage)
 - [**Technology**](#🚀-technology)
 - [**Questions**](#❓-questions)
@@ -15,6 +14,8 @@
 Jate is a browser-based text editor that meets the criteria of a Progressive Web App (PWA). It functions as a single-page application and incorporates multiple data persistence techniques to ensure redundancy in case browser support varies. One of its notable features is the ability to operate offline, enabling users to access and use the text editor even without an internet connection. Jate aims to provide a seamless and responsive user experience, combining the convenience of a browser-based tool with the reliability of data persistence techniques.
 
 [JATE Live Site](https://ct-jate.herokuapp.com/)
+
+![JATE](./images/JATE.png)
 
 ## 💻 Usage
 
