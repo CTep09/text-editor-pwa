@@ -7,27 +7,26 @@
 - [**Description**](#📑-description)
 - [**Installation**](#💾-installation)
 - [**Usage**](#💻-usage)
-- [**Contribution**](#🤝-contribution)
 - [**Technology**](#🚀-technology)
-- [**Test**](#🧪-test)
 - [**Questions**](#❓-questions)
 
 ## 📑 Description
 
-[JATE Live Site](https://ct-jate.herokuapp.com/)
+Jate is a browser-based text editor that meets the criteria of a Progressive Web App (PWA). It functions as a single-page application and incorporates multiple data persistence techniques to ensure redundancy in case browser support varies. One of its notable features is the ability to operate offline, enabling users to access and use the text editor even without an internet connection. Jate aims to provide a seamless and responsive user experience, combining the convenience of a browser-based tool with the reliability of data persistence techniques.
 
-## 💾 Installation
+[JATE Live Site](https://ct-jate.herokuapp.com/)
 
 ## 💻 Usage
 
-## 🤝 Contribution
+Users can utilize JATE for any note taking task. JATE's capabilities span from document editing and note-taking to collaborative work. Its user-friendly interface make it an ideal choice for writers, students, and developers alike. Jate offers a comprehensive text editing solution that caters to a wide range of user needs.
+
+![JATE](./images/JATE%20Walkthrough.gif)
 
 ## 🚀 Technology
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,mysql)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=heroku,js,nodejs,vscode,webpack)](https://skillicons.dev)
 
 - **Insomnia**
-
-## 🧪 Test
 
 ## ❓ Questions
 
