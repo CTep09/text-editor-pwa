@@ -1,4 +1,4 @@
-# Text-Editor PWA
+# JATE Text Editor PWA
 
 [![License](https://img.shields.io/badge/license-MIT-ff69b4)](https://opensource.org/license/MIT)
 
@@ -13,6 +13,8 @@
 - [**Questions**](#❓-questions)
 
 ## 📑 Description
+
+[JATE Live Site](https://ct-jate.herokuapp.com/)
 
 ## 💾 Installation
 
